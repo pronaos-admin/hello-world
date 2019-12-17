@@ -6,3 +6,5 @@ Adding some text change #1 for readme-edits branch.
 Adding some more text as change #2 for readme-edits branch.
 
 Adding some local Git changes as #3 from FA
+
+Editing from git as change #4 
